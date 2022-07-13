@@ -7,7 +7,7 @@ for _ in 0..<t {
 
 func solution(_ N: Int, _ M: Int, _ x: Int, _ y :Int) -> Int {
 	var xx = x - 1
-    var yy = y - 1
+	var yy = y - 1
 	var ret = -1, sum = xx
 	var yp = xx % M
 	for i in 0..<(N + M) {
