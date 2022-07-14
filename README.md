@@ -6,8 +6,8 @@
 | 07.11    | [일곱 난쟁이](https://www.acmicpc.net/problem/2309), [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)  | :white_check_mark: :white_check_mark:  |:white_check_mark: :white_check_mark:|
 | 07.12    | [소수 찾기](https://www.acmicpc.net/problem/1978), [스타트와 링크](https://www.acmicpc.net/problem/14889)  | :white_check_mark: :white_check_mark:  |:white_check_mark: :white_check_mark:|
 | 07.13    | [카잉 달력](https://www.acmicpc.net/problem/6064), [N과 M (6)](https://www.acmicpc.net/problem/15655)   |  :white_check_mark: :white_check_mark: |:negative_squared_cross_mark: :white_check_mark:  |
-| 07.14    | [Single Number](https://leetcode.com/problems/single-number/), [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)  |   |  |
-| 07.15    |   |   |  |
+| 07.14    | [Single Number](https://leetcode.com/problems/single-number/), [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)  |  :white_check_mark: :white_check_mark: |  |
+| 07.15    | [날짜 계산](https://www.acmicpc.net/problem/1476), [프린터 큐](https://www.acmicpc.net/problem/1966)  |   |  |
 | 07.16    |   |   |  |
 | 07.18    |   |   |  |
 | 07.19    |   |   |  |
