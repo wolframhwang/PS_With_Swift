@@ -9,7 +9,7 @@
 | 07.14    | [Single Number](https://leetcode.com/problems/single-number/), [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)  |  :white_check_mark: :white_check_mark: |:negative_squared_cross_mark: :white_check_mark:  |
 | 07.15    | [날짜 계산](https://www.acmicpc.net/problem/1476), [프린터 큐](https://www.acmicpc.net/problem/1966)  | :white_check_mark: :white_check_mark:  |:negative_squared_cross_mark: :white_check_mark:  |
 | 07.16    | [행렬 곱셈](https://www.acmicpc.net/problem/2740), [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | :white_check_mark: :white_check_mark:  |:white_check_mark: :white_check_mark:|
-| 07.18    |   |   |  |
+| 07.18    | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/), [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  |   |  |
 | 07.19    |   |   |  |
 | 07.20    |   |   |  |
 | 07.21    |   |   |  |
