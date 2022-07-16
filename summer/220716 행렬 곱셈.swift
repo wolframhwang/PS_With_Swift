@@ -28,21 +28,23 @@ var result = Array(repeating: Array(repeating: 0, count: bCol), count: aRow)
 var row = 0
 var col = 0
 
-
-for i in 0..<aCol {
-    while row < aRow {
-        while col < bCol {
-            for j in 0..<bRow {
-                result[row][col] += a[row][j] * b[j][col]
-                print("[row][col]: [\(row)][\(col)]")
-                print("a[row][j]:", "a[",row,"][",j,"]")
-                print("b[j][col]:", "b[",j,"][",col,"]")
-            }
-            col += 1
+// 결과 행렬의 row 갯수 = 첫 번째 행렬의 row 갯수
+while row < aRow {
+    // 결과 행렬의 칼럼 갯수 = 두 번째 행렬의 칼럼 갯수
+    while col < bCol {
+        // 첫번째 행렬의 칼럼과 두번째 행렬의 row가 같은 값으로 움직인다
+        for j in 0..<bRow {
+            result[row][col] += a[row][j] * b[j][col]
+            print("[row][col]: [\(row)][\(col)]")
+            print("a[row][j]:", "a[",row,"][",j,"]")
+            print("b[j][col]:", "b[",j,"][",col,"]")
         }
-        col = 0
-        row += 1
+        // 두번째 행렬의 다음 칼럼으로 작업하기 위해 더해준다
+        col += 1
     }
+    // row가 바뀌면, 다시 두 번째 행렬의 0번째 칼럼부터 계산해야 함
+    col = 0
+    row += 1
 }
 
 for line in result {
