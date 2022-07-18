@@ -10,7 +10,7 @@
 | 07.15    | [날짜 계산](https://www.acmicpc.net/problem/1476), [프린터 큐](https://www.acmicpc.net/problem/1966)  | :white_check_mark: :white_check_mark:  |:negative_squared_cross_mark: :white_check_mark:  |
 | 07.16    | [행렬 곱셈](https://www.acmicpc.net/problem/2740), [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | :white_check_mark: :white_check_mark:  |:white_check_mark: :white_check_mark:|
 | 07.18    | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/), [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | :white_check_mark: :white_check_mark:  |:negative_squared_cross_mark: :white_check_mark:|
-| 07.19    | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/), [바이러스](https://www.acmicpc.net/problem/2606)  |  :white_check_mark: :white_check_mark: |  |
+| 07.19    | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/), [바이러스](https://www.acmicpc.net/problem/2606)  |  :white_check_mark: :white_check_mark: |:white_check_mark: :white_check_mark:  |
 | 07.20    | [Path Sum](https://leetcode.com/problems/path-sum/), [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  |   |  |
 | 07.21    | [배열 돌리기1](https://www.acmicpc.net/problem/16926), [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)  |   |  |
 | 07.22    |   |   |  |
