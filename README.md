@@ -14,8 +14,8 @@
 | 07.19    | [Path Sum](https://leetcode.com/problems/path-sum/), [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  | :white_check_mark: :white_check_mark:  |:negative_squared_cross_mark: :white_check_mark:  |
 | 07.20    | [배열 돌리기1](https://www.acmicpc.net/problem/16926), [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)  |  :white_check_mark: :white_check_mark: |:negative_squared_cross_mark: :negative_squared_cross_mark:  |
 | 07.21    | [Island Perimeter](https://leetcode.com/problems/island-perimeter/), [유기농 배추](https://www.acmicpc.net/problem/1012)  |    :white_check_mark: :white_check_mark: |:white_check_mark: :white_check_mark: |
-| 07.22    | [word search](https://leetcode.com/problems/word-search/), [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |   |  |
-| 07.23    |   |   |  |
+| 07.22    | [word search](https://leetcode.com/problems/word-search/), [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |  :white_check_mark: :white_check_mark: |  |
+| 07.23    | [연결 요소의 개수](https://www.acmicpc.net/problem/11724), [섬의 개수](https://www.acmicpc.net/problem/4963)  |   |  |
 | 07.24    |   |   |  |
 | 07.25    |   |   |  |
 | 07.26    |   |   |  |
