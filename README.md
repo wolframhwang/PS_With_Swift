@@ -17,7 +17,7 @@
 | 07.22    | [word search](https://leetcode.com/problems/word-search/), [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |  :white_check_mark: :white_check_mark: |:negative_squared_cross_mark: :white_check_mark:  |
 | 07.23    | [연결 요소의 개수](https://www.acmicpc.net/problem/11724), [섬의 개수](https://www.acmicpc.net/problem/4963)  | :white_check_mark: :white_check_mark:  |:white_check_mark: :white_check_mark:  |
 | 07.24    | [N과 M(11)](https://www.acmicpc.net/problem/15665), [연산자 끼워 넣기](https://www.acmicpc.net/problem/14888)  |  :white_check_mark: :white_check_mark: |:white_check_mark: :negative_squared_cross_mark: |
-| 07.25    | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/), [차이를 최대로](https://www.acmicpc.net/problem/10819) |   |  |
+| 07.25    | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/), [차이를 최대로](https://www.acmicpc.net/problem/10819) | :white_check_mark: :white_check_mark:  |  |
 | 07.26    |   |   |  |
 | 07.27    |   |   |  |
 | 07.28    |   |   |  |
