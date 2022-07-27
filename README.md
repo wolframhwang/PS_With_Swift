@@ -19,7 +19,7 @@
 | 07.24    | [N과 M(11)](https://www.acmicpc.net/problem/15665), [연산자 끼워 넣기](https://www.acmicpc.net/problem/14888)  |  :white_check_mark: :white_check_mark: |:white_check_mark: :negative_squared_cross_mark: |
 | 07.25    | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/), [차이를 최대로](https://www.acmicpc.net/problem/10819) | :white_check_mark: :white_check_mark:  |:negative_squared_cross_mark: :white_check_mark: |
 | 07.26    | [Generate Parenthses](https://leetcode.com/problems/generate-parentheses/), [적록색 약](https://www.acmicpc.net/problem/10026) | :white_check_mark: :white_check_mark: |:negative_squared_cross_mark: :white_check_mark: |
-| 07.27    | [N-Queens](https://leetcode.com/problems/n-queens/)  |   |:white_check_mark:  |
+| 07.27    | [N-Queens](https://leetcode.com/problems/n-queens/)  | :white_check_mark:  |:white_check_mark:  |
 | 07.28    |   |   |  |
 
 
