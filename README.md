@@ -21,7 +21,7 @@
 | 07.26    | [Generate Parenthses](https://leetcode.com/problems/generate-parentheses/), [적록색 약](https://www.acmicpc.net/problem/10026) | :white_check_mark: :white_check_mark: |:negative_squared_cross_mark: :white_check_mark: |
 | 07.27    | [N-Queens](https://leetcode.com/problems/n-queens/)  | :white_check_mark:  |:white_check_mark:  |
 | 07.28    | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/), [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)  | :white_check_mark: :white_check_mark:  | - :white_check_mark:  |
-| 07.29    | [스도쿠](https://www.acmicpc.net/problem/2580) | | |
+| 07.29    | [스도쿠](https://www.acmicpc.net/problem/2580) | :white_check_mark: | |
 | 07.30    | [신기한 소수](https://www.acmicpc.net/problem/2023) | | |
 | 07.31    | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | | |
 
