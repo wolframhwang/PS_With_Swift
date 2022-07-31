@@ -23,7 +23,7 @@
 | 07.28    | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/), [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)  | :white_check_mark: :white_check_mark:  | :white_check_mark: - |
 | 07.29    | [스도쿠](https://www.acmicpc.net/problem/2580) | :white_check_mark: |:negative_squared_cross_mark: |
 | 07.30    | [신기한 소수](https://www.acmicpc.net/problem/2023) | :white_check_mark: |:white_check_mark: |
-| 07.31    | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | | |
+| 07.31    | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | :white_check_mark: | |
 
 
 
