@@ -1,5 +1,9 @@
 # PS_With_Swift
 
+| date       | problem set          | volga | summer |
+| ---------- | -------------------- | ----  | ----  |
+| 08.01    | [DFS와 BFS](https://www.acmicpc.net/problem/1260), [Subsets](https://leetcode.com/problems/subsets/) |  | |
+
 
 | date       | problem set          | volga | summer |
 | ---------- | -------------------- | ----  | ----  |
