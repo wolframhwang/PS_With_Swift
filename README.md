@@ -3,7 +3,7 @@
 
 | date       | problem set          | volga | summer |
 | ---------- | -------------------- | ----  | ----  |
-| 08.01    | [DFS와 BFS](https://www.acmicpc.net/problem/1260), [Subsets](https://leetcode.com/problems/subsets/) | :white_check_mark: :white_check_mark: | |
+| 08.01    | [DFS와 BFS](https://www.acmicpc.net/problem/1260), [Subsets](https://leetcode.com/problems/subsets/) | :white_check_mark: :white_check_mark: |- :white_check_mark:  |
 | 08.02    | [Gray Code](https://leetcode.com/problems/gray-code/), [가르침](https://www.acmicpc.net/problem/1062) | | |
 
 <u></u>
@@ -27,10 +27,10 @@
 | 07.25    | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/), [차이를 최대로](https://www.acmicpc.net/problem/10819) | :white_check_mark: :white_check_mark:  |:negative_squared_cross_mark: :white_check_mark: |
 | 07.26    | [Generate Parenthses](https://leetcode.com/problems/generate-parentheses/), [적록색 약](https://www.acmicpc.net/problem/10026) | :white_check_mark: :white_check_mark: |:negative_squared_cross_mark: :white_check_mark: |
 | 07.27    | [N-Queens](https://leetcode.com/problems/n-queens/)  | :white_check_mark:  |:white_check_mark:  |
-| 07.28    | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/), [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)  | :white_check_mark: :white_check_mark:  | :white_check_mark: - |
+| 07.28    | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/), [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)  | :white_check_mark: :white_check_mark:  | :white_check_mark: :negative_squared_cross_mark: |
 | 07.29    | [스도쿠](https://www.acmicpc.net/problem/2580) | :white_check_mark: |:negative_squared_cross_mark: |
 | 07.30    | [신기한 소수](https://www.acmicpc.net/problem/2023) | :white_check_mark: |:white_check_mark: |
-| 07.31    | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | :white_check_mark: | |
+| 07.31    | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | :white_check_mark: | :negative_squared_cross_mark:|
 
 
 
