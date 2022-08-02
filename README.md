@@ -5,6 +5,7 @@
 | ---------- | -------------------- | ----  | ----  |
 | 08.01    | [DFS와 BFS](https://www.acmicpc.net/problem/1260), [Subsets](https://leetcode.com/problems/subsets/) | :white_check_mark: :white_check_mark: |:white_check_mark: :white_check_mark:|
 | 08.02    | [Gray Code](https://leetcode.com/problems/gray-code/), [가르침](https://www.acmicpc.net/problem/1062) |:white_check_mark: :white_check_mark: |- :negative_squared_cross_mark: |
+| 08.03    | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/), [토마토](https://www.acmicpc.net/problem/7576) | | |
 
 <u></u>
 ## 7월
