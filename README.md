@@ -4,7 +4,7 @@
 | date       | problem set          | volga | summer |
 | ---------- | -------------------- | ----  | ----  |
 | 08.01    | [DFS와 BFS](https://www.acmicpc.net/problem/1260), [Subsets](https://leetcode.com/problems/subsets/) | :white_check_mark: :white_check_mark: |:white_check_mark: :white_check_mark:|
-| 08.02    | [Gray Code](https://leetcode.com/problems/gray-code/), [가르침](https://www.acmicpc.net/problem/1062) | | |
+| 08.02    | [Gray Code](https://leetcode.com/problems/gray-code/), [가르침](https://www.acmicpc.net/problem/1062) | |- |
 
 <u></u>
 ## 7월
