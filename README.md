@@ -8,7 +8,7 @@
 | 08.03    | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584), [토마토](https://www.acmicpc.net/problem/7576) | :white_check_mark: :white_check_mark: |:white_check_mark: - |
 | 08.04    | [이분 그래프](https://www.acmicpc.net/problem/1707)|:white_check_mark: |:white_check_mark: |
 | 08.05    | [게리맨더링](https://www.acmicpc.net/problem/17471)| :white_check_mark: | |
-| 08.06    | [치킨 배달](https://www.acmicpc.net/problem/15686) | | |
+| 08.06    | [치킨 배달](https://www.acmicpc.net/problem/15686) | |:white_check_mark: |
 
 <u></u>
 ## 7월
