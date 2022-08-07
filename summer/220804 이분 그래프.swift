@@ -8,7 +8,6 @@ for _ in 0..<cases {
     let vertice = input[0]
     let edges = input[1]
     
-//    var graph = Array(repeating: Array(repeating: 0, count: vertice), count: vertice)
     var visited = [Int](repeating: 0, count: vertice + 1)
     var graph: Dictionary<Int, [Int]> = [:]
     
@@ -19,9 +18,6 @@ for _ in 0..<cases {
         
         graph[from, default: []].append(to)
         graph[to, default: []].append(from)
-        
-//        graph[from][to] = 1
-//        graph[to][from] = 1
     }
     
     var isValid = true
@@ -57,18 +53,7 @@ for _ in 0..<cases {
                     if visited[i] == visited[cur] { return false }
                 }
             }
-            
-//            for i in 0..<vertice {
-//                if graph[cur][i] == 0 { continue }
-//
-//                if graph[cur][i] == 1 && visited[i] == 0 {
-//                    queue.append(i)
-//                    visited[i] = visited[cur] * (-1)
-//                } else if graph[cur][i] == 1 && visited[i] == visited[cur] {
-//                    return false
-//                }
-//            }
-            
+
             queue.removeFirst()
         }
         
