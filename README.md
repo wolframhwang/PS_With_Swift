@@ -9,7 +9,7 @@
 | 08.04    | [이분 그래프](https://www.acmicpc.net/problem/1707)|:white_check_mark: |:white_check_mark: |
 | 08.05    | [게리맨더링](https://www.acmicpc.net/problem/17471)| :white_check_mark: |:white_check_mark: |
 | 08.06    | [치킨 배달](https://www.acmicpc.net/problem/15686) | :white_check_mark: |:white_check_mark: |
-
+| 08.07    | [Minesweeper](https://leetcode.com/problems/minesweeper/) | | | 
 <u></u>
 ## 7월
 | date       | problem set          | volga | summer |
