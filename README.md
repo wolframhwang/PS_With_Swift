@@ -10,7 +10,7 @@
 | 08.05    | [게리맨더링](https://www.acmicpc.net/problem/17471)| :white_check_mark: |:white_check_mark: |
 | 08.06    | [치킨 배달](https://www.acmicpc.net/problem/15686) | :white_check_mark: |:white_check_mark: |
 | 08.07    | [Minesweeper](https://leetcode.com/problems/minesweeper/) | ✅ | ✅| 
-| 08.08    | [드래곤 커브](https://www.acmicpc.net/problem/15685) | ✅| | 
+| 08.08    | [드래곤 커브](https://www.acmicpc.net/problem/15685) | ✅|✅ | 
 | 08.09    | [빵집](https://www.acmicpc.net/problem/3109) | ✅ | | 
 | 08.10    | [로봇 청소기](https://www.acmicpc.net/problem/14503) | | | 
 
