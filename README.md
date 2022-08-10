@@ -12,7 +12,7 @@
 | 08.07    | [Minesweeper](https://leetcode.com/problems/minesweeper/) | ✅ | ✅| 
 | 08.08    | [드래곤 커브](https://www.acmicpc.net/problem/15685) | ✅|✅ | 
 | 08.09    | [빵집](https://www.acmicpc.net/problem/3109) | ✅ | | 
-| 08.10    | [로봇 청소기](https://www.acmicpc.net/problem/14503) | | | 
+| 08.10    | [로봇 청소기](https://www.acmicpc.net/problem/14503) | ✅ | | 
 
 
 
