@@ -15,7 +15,7 @@
 | 08.10    | [로봇 청소기](https://www.acmicpc.net/problem/14503) | ✅ |✅ | 
 | 08.11    | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | ✅ | :negative_squared_cross_mark:|
 | 08.12    | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | ✅ |✅ |
-| 08.13    | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | | |
+| 08.13    | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | ✅| |
 | 08.14    | [연구소3](https://www.acmicpc.net/problem/17142) | | |
 
 
