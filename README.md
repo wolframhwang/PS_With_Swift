@@ -18,7 +18,7 @@
 | 08.13    | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | ✅|✅ |
 | 08.14    | [연구소3](https://www.acmicpc.net/problem/17142) | ✅| |
 | 08.15    | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059?language=swift) | ✅| |
-| 08.16    | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680), [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)  | ✅✅| |
+| 08.16    | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680), [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)  | ✅✅| ✅|
 | 08.17    | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | | |
 
 
