@@ -20,7 +20,9 @@
 | 08.15    | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059?language=swift) | ✅| |
 | 08.16    | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680), [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)  | ✅✅| ✅✅|
 | 08.17    | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | ✅| |
-
+| 08.18    | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | | |
+| 08.19    | [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | | |
+| 08.20    | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | | |
 
 <u></u>
 ## 7월
