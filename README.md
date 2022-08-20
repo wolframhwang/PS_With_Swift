@@ -22,7 +22,7 @@
 | 08.17    | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | ✅| |
 | 08.18    | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | ✅|:negative_squared_cross_mark: |
 | 08.19    | [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | ✅| |
-| 08.20    | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | | |
+| 08.20    | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | ✅| |
 | 08.21    | [가스관](https://www.acmicpc.net/problem/2931) | | |
 | 08.22    | [움직이는 미로 탈출하기](https://www.acmicpc.net/problem/16954) | | |
 | 08.23    | [아기 상어](https://www.acmicpc.net/problem/16236) | | |
