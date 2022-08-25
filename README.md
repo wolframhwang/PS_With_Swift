@@ -1,33 +1,33 @@
 # PS_With_Swift
 ## 8월
 
-| date       | problem set          | volga | summer |
-| ---------- | -------------------- | ----  | ----  |
-| 08.01    | [DFS와 BFS](https://www.acmicpc.net/problem/1260), [Subsets](https://leetcode.com/problems/subsets/) | :white_check_mark: :white_check_mark: |:white_check_mark: :white_check_mark:|
-| 08.02    | [Gray Code](https://leetcode.com/problems/gray-code/), [가르침](https://www.acmicpc.net/problem/1062) |:white_check_mark: :white_check_mark: |- :negative_squared_cross_mark: |
-| 08.03    | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584), [토마토](https://www.acmicpc.net/problem/7576) | :white_check_mark: :white_check_mark: |:white_check_mark: - |
-| 08.04    | [이분 그래프](https://www.acmicpc.net/problem/1707)|:white_check_mark: |:white_check_mark: |
-| 08.05    | [게리맨더링](https://www.acmicpc.net/problem/17471)| :white_check_mark: |:white_check_mark: |
-| 08.06    | [치킨 배달](https://www.acmicpc.net/problem/15686) | :white_check_mark: |:white_check_mark: |
-| 08.07    | [Minesweeper](https://leetcode.com/problems/minesweeper/) | ✅ | ✅| 
-| 08.08    | [드래곤 커브](https://www.acmicpc.net/problem/15685) | ✅|✅ | 
-| 08.09    | [빵집](https://www.acmicpc.net/problem/3109) | ✅ | | 
-| 08.10    | [로봇 청소기](https://www.acmicpc.net/problem/14503) | ✅ |✅ | 
-| 08.11    | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | ✅ | :negative_squared_cross_mark:|
-| 08.12    | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | ✅ |✅ |
-| 08.13    | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | ✅|✅ |
-| 08.14    | [연구소3](https://www.acmicpc.net/problem/17142) | ✅| |
-| 08.15    | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059?language=swift) | ✅| |
-| 08.16    | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680), [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)  | ✅✅| ✅✅|
-| 08.17    | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | ✅| |
-| 08.18    | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | ✅|:negative_squared_cross_mark: |
-| 08.19    | [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | ✅| |
-| 08.20    | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | ✅| |
-| 08.21    | [프렌즈 4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679), [가스관](https://www.acmicpc.net/problem/2931) | ✅| - ✅ |
-| 08.22    | [움직이는 미로 탈출하기](https://www.acmicpc.net/problem/16954) | ✅|✅ |
-| 08.23    | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | ✅| |
-| 08.24    | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | ✅| ✅|
-| 08.25    | [N과 M(1)](https://www.acmicpc.net/problem/15649) | | |
+| date       | problem set          | volga | summer | minii |
+| ---------- | -------------------- | ----  | ----  |----  |
+| 08.01    | [DFS와 BFS](https://www.acmicpc.net/problem/1260), [Subsets](https://leetcode.com/problems/subsets/) | ✅ ✅ |✅ ✅| |
+| 08.02    | [Gray Code](https://leetcode.com/problems/gray-code/), [가르침](https://www.acmicpc.net/problem/1062) |✅ ✅ |- :negative_squared_cross_mark: | |
+| 08.03    | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584), [토마토](https://www.acmicpc.net/problem/7576) | ✅ ✅ |✅ - | |
+| 08.04    | [이분 그래프](https://www.acmicpc.net/problem/1707)|✅ |✅ | |
+| 08.05    | [게리맨더링](https://www.acmicpc.net/problem/17471)| ✅ |✅ | |
+| 08.06    | [치킨 배달](https://www.acmicpc.net/problem/15686) | ✅ |✅ | |
+| 08.07    | [Minesweeper](https://leetcode.com/problems/minesweeper/) | ✅ | ✅|  |
+| 08.08    | [드래곤 커브](https://www.acmicpc.net/problem/15685) | ✅|✅ |  |
+| 08.09    | [빵집](https://www.acmicpc.net/problem/3109) | ✅ | | |
+| 08.10    | [로봇 청소기](https://www.acmicpc.net/problem/14503) | ✅ |✅ | | 
+| 08.11    | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | ✅ | :negative_squared_cross_mark:| |
+| 08.12    | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | ✅ |✅ | |
+| 08.13    | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | ✅|✅ | |
+| 08.14    | [연구소3](https://www.acmicpc.net/problem/17142) | ✅| | |
+| 08.15    | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059?language=swift) | ✅| | |
+| 08.16    | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680), [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)  | ✅✅| ✅✅| |
+| 08.17    | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | ✅| | |
+| 08.18    | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | ✅|:negative_squared_cross_mark: | |
+| 08.19    | [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | ✅| | |
+| 08.20    | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | ✅| | |
+| 08.21    | [프렌즈 4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679), [가스관](https://www.acmicpc.net/problem/2931) | ✅| - ✅ | |
+| 08.22    | [움직이는 미로 탈출하기](https://www.acmicpc.net/problem/16954) | ✅|✅ | |
+| 08.23    | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | ✅| | |
+| 08.24    | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | ✅| ✅| |
+| 08.25    | [N과 M(1)](https://www.acmicpc.net/problem/15649) | | | |
 
 <u></u>
 ## 7월
