@@ -28,7 +28,7 @@
 | 08.23    | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | ✅| | |
 | 08.24    | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | ✅| ✅| |
 | 08.25    | [N과 M(1)](https://www.acmicpc.net/problem/15649) |✅ | ✅| |
-| 08.26    | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | | | |
+| 08.26    | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | ✅| | |
 
 
 <u></u>
