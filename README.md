@@ -30,7 +30,7 @@
 | 08.25    | [N과 M(1)](https://www.acmicpc.net/problem/15649) |✅ | ✅| |
 | 08.26    | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | ✅| ✅ |✅ |
 | 08.27    | [Z](https://www.acmicpc.net/problem/1074) |✅ | | |
-| 08.28    | [종이의 개수](https://www.acmicpc.net/problem/1780) | | | | 
+| 08.28    | [종이의 개수](https://www.acmicpc.net/problem/1780) | | ✅ | | 
 
 
 <u></u>
