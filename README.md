@@ -31,7 +31,7 @@
 | 08.26    | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | ✅| ✅ |✅ |
 | 08.27    | [Z](https://www.acmicpc.net/problem/1074) |✅ | ✅ | |
 | 08.28    | [종이의 개수](https://www.acmicpc.net/problem/1780) | ✅| ✅ | | 
-| 08.29    | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) | ✅|✅| |
+| 08.29    | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) | ✅|✅|✅|
 
 <u></u>
 ## 7월
