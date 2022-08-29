@@ -32,6 +32,7 @@
 | 08.27    | [Z](https://www.acmicpc.net/problem/1074) |✅ | ✅ | |
 | 08.28    | [종이의 개수](https://www.acmicpc.net/problem/1780) | ✅| ✅ | | 
 | 08.29    | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) | ✅|✅|✅|
+| 08.30    | [종이의 개수](https://www.acmicpc.net/problem/1780) | | | |
 
 <u></u>
 ## 7월
