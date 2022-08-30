@@ -2,7 +2,7 @@
 ## 8월
 
 | date       | problem set          | volga | summer | minii |
-| ---------- | -------------------- | ----  | ----  |----  |
+| ---------- | -------------------- | ----  | ----  | ----  |
 | 08.01    | [DFS와 BFS](https://www.acmicpc.net/problem/1260), [Subsets](https://leetcode.com/problems/subsets/) | ✅ ✅ |✅ ✅| |
 | 08.02    | [Gray Code](https://leetcode.com/problems/gray-code/), [가르침](https://www.acmicpc.net/problem/1062) |✅ ✅ |❎ ❎ | |
 | 08.03    | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584), [토마토](https://www.acmicpc.net/problem/7576) | ✅ ✅ |✅ ❎ | |
@@ -24,15 +24,15 @@
 | 08.19    | [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | ✅|❎| |
 | 08.20    | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | ✅|❎| |
 | 08.21    | [프렌즈 4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679), [가스관](https://www.acmicpc.net/problem/2931) | ✅| ❎ ✅ | |
-| 08.22    | [움직이는 미로 탈출하기](https://www.acmicpc.net/problem/16954) | ✅|✅ | |
-| 08.23    | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | ✅|❎| |
-| 08.24    | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | ✅| ✅|✅ |
-| 08.25    | [N과 M(1)](https://www.acmicpc.net/problem/15649) |✅ | ✅| |
-| 08.26    | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | ✅| ✅ |✅ |
+| 08.22    | [움직이는 미로 탈출하기](https://www.acmicpc.net/problem/16954) | ✅ | ✅ | |
+| 08.23    | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | ✅ | ❎ | |
+| 08.24    | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | ✅| ✅ | ✅ |
+| 08.25    | [N과 M(1)](https://www.acmicpc.net/problem/15649) | ✅ | ✅ | |
+| 08.26    | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | ✅ | ✅ |✅ |
 | 08.27    | [Z](https://www.acmicpc.net/problem/1074) |✅ | ✅ | |
 | 08.28    | [종이의 개수](https://www.acmicpc.net/problem/1780) | ✅| ✅ | | 
-| 08.29    | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) | ✅|✅|✅|
-| 08.30    | [색종이 만들기](https://www.acmicpc.net/problem/2630) | | | |
+| 08.29    | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) | ✅ | ✅ | ✅ |
+| 08.30    | [색종이 만들기](https://www.acmicpc.net/problem/2630) | | ✅ | |
 
 <u></u>
 ## 7월
