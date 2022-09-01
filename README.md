@@ -3,7 +3,7 @@
 ## 9월 
 | date       | problem set          | volga | summer | minii | tottal-e |
 | ---------- | -------------------- | ----  | ----  | ----  | ---- |
-| 09.01 | [Same Tree](https://leetcode.com/problems/same-tree/), [퇴사](https://www.acmicpc.net/problem/14501) | | | |✅|
+| 09.01 | [Same Tree](https://leetcode.com/problems/same-tree/), [퇴사](https://www.acmicpc.net/problem/14501) | | | |✅ ❎|
 
 ## 8월
 
