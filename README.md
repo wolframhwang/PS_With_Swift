@@ -4,7 +4,7 @@
 | date       | problem set          | volga | summer | minii | tottal-e |
 | ---------- | -------------------- | ----  | ----  | ----  | ---- |
 | 09.01 | [Same Tree](https://leetcode.com/problems/same-tree/), [퇴사](https://www.acmicpc.net/problem/14501) | ✅ ✅| ✅ ✅ | |✅ ❎|
-| 09.02 | [N과 M(2)](https://www.acmicpc.net/problem/15650), [N과 M(3)](https://www.acmicpc.net/problem/15651) | | | | |
+| 09.02 | [N과 M(2)](https://www.acmicpc.net/problem/15650), [N과 M(3)](https://www.acmicpc.net/problem/15651) | | | | ✅|
 | 09.03 | [N과 M(4)](https://www.acmicpc.net/problem/15652) | | | | |
 | 09.04 | [수 이어 쓰기](https://www.acmicpc.net/problem/1748) | | | | |
 | 09.05 | [N과 M(5)](https://www.acmicpc.net/problem/15654), [N과 M(6)](https://www.acmicpc.net/problem/15655) | | | | |
