@@ -8,7 +8,7 @@
 | 09.03 | [N과 M(4)](https://www.acmicpc.net/problem/15652) | ✅| ✅ | ✅ | ✅|
 | 09.04 | [수 이어 쓰기](https://www.acmicpc.net/problem/1748) | ✅| ✅ | ✅ | ❎|
 | 09.05 | [N과 M(5)](https://www.acmicpc.net/problem/15654), [N과 M(6)](https://www.acmicpc.net/problem/15655) |  ✅ ✅| ✅ ✅ | ✅ ✅ | ✅ ✅ |
-| 09.06 | [N-Queens](https://leetcode.com/problems/n-queens/) | ✅|  |  | |
+| 09.06 | [N-Queens](https://leetcode.com/problems/n-queens/) | ✅| ✅ |  | |
 | 09.07 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | ✅|  |  | |
 
 
