@@ -9,7 +9,7 @@
 | 09.04 | [수 이어 쓰기](https://www.acmicpc.net/problem/1748) | ✅| ✅ | ✅ | ❎|
 | 09.05 | [N과 M(5)](https://www.acmicpc.net/problem/15654), [N과 M(6)](https://www.acmicpc.net/problem/15655) |  ✅ ✅| ✅ ✅ | ✅ ✅ | ✅ ✅ |
 | 09.06 | [N-Queens](https://leetcode.com/problems/n-queens/) | ✅| ✅ | ❎ |❎ |
-| 09.07 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | ✅|  |  | |
+| 09.07 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | ✅|  |  | ❎|
 | 09.08 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | |  |  | |
 | 09.09 | [BFS와 DFS](https://www.acmicpc.net/problem/1260) | |  |  | |
 | 09.10 | [BFS와 DFS](https://www.acmicpc.net/problem/1260) | |  |  | |
