@@ -10,7 +10,7 @@
 | 09.05 | [N과 M(5)](https://www.acmicpc.net/problem/15654), [N과 M(6)](https://www.acmicpc.net/problem/15655) |  ✅ ✅| ✅ ✅ | ✅ ✅ | ✅ ✅ |
 | 09.06 | [N-Queens](https://leetcode.com/problems/n-queens/) | ✅| ✅ | ❎ |❎ |
 | 09.07 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | ✅|  |  | ❎|
-| 09.08 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | ✅| ✅ | ❎ | |
+| 09.08 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | ✅| ✅ | ❎ | ✅|
 | 09.09 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | |  |  | |
 | 09.10 | [Target Sum](https://leetcode.com/problems/target-sum/) | |  |  | |
 | 09.11 | [촌수 계산](https://www.acmicpc.net/problem/2644) | |  |  | |
