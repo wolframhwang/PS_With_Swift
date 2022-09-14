@@ -1,49 +1,44 @@
 let input = readLine()!.split(separator: " ").map { Int($0)! }
 let N = input[0], M = input[1], V = input[2]
 var graph = Array(repeating: [Int](), count: N + 1)
+var visited = Array(repeating: false, count: N + 1)
 
-for _ in 1...M {
-    let g = readLine()!.split(separator: " ").map { Int($0)! }
-    graph[g[1]].append(g[0])
-    graph[g[0]].append(g[1])
-    
-    graph[g[1]].sort()
-    graph[g[0]].sort()
+for _ in 0..<M {
+    let line = readLine()!.split(separator: " ").map { Int($0)! }
+    graph[line[0]].append(line[1])
+    graph[line[1]].append(line[0])
+    graph[line[0]].sort()
+    graph[line[1]].sort()
 }
 
-func DFS(_ start: Int) -> String {
-    var visit: [Int] = []
-    var need = [start]
-    
-    while !need.isEmpty {
-        let node = need.removeLast()
-        if visit.contains(node) { continue }
-        
-        if node != 0 {
-            visit.append(node)
-        }
-        
-        need += graph[node]
+func dfs(_ index: Int) {
+    if visited[index] {
+        return
     }
     
-    return visit.map { String($0) }.joined(separator: " ")
+    visited[index] = true
+    print(index,terminator: " ")
+    
+    for v in graph[index] {
+        dfs(v)
+    }
 }
 
-func BFS(_ start: Int) -> String {
-    var visit: [Int] = []
-    var need = [start]
-    
-    while !need.isEmpty {
-        let node = need.removeFirst()
+func bfs(_ start: Int) {
+    var visited: [Int] = []
+    var map = [start]
+    while !map.isEmpty {
+        let first = map.removeFirst()
+        if visited.contains(first) { continue }
+        visited.append(first)
         
-        if visit.contains(node) { continue }
-        
-        if node != 0 {
-            visit.append(node)
-        }
-        need += graph[node]
+        map += graph[first]
     }
-    return visit.map { String($0) }.joined(separator: " ")
+    
+    print(visited.map { String($0) }.joined(separator: " "))
+    
 }
-print(DFS(V))
-print(BFS(V))
+
+dfs(V)
+print()
+bfs(V)
