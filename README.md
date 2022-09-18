@@ -14,7 +14,7 @@
 | 09.09 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | ✅|  |  ❎  | |
 | 09.10 | [Target Sum](https://leetcode.com/problems/target-sum/) | ✅|  | ❎  | |
 | 09.11 | [촌수 계산](https://www.acmicpc.net/problem/2644) | ✅| ✅ |  ❎   | |
-| 09.12 | [외판원 순회2](https://www.acmicpc.net/problem/10971) | |  | ✅ | |
+| 09.12 | [외판원 순회2](https://www.acmicpc.net/problem/10971) | | ✅ | ✅ | |
 
 
 
