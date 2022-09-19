@@ -15,6 +15,8 @@
 | 09.10 | [Target Sum](https://leetcode.com/problems/target-sum/) | ✅|  | ❎  | |
 | 09.11 | [촌수 계산](https://www.acmicpc.net/problem/2644) | ✅| ✅ |  ❎   | |
 | 09.12 | [외판원 순회2](https://www.acmicpc.net/problem/10971) | | ✅ | ❎ | |
+| 09.19 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | | | | |
+| 09.20 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | | | | |
 
 
 
