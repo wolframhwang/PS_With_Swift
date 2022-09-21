@@ -16,7 +16,7 @@
 | 09.11 | [촌수 계산](https://www.acmicpc.net/problem/2644) | ✅| ✅ |  ❎   | |
 | 09.12 | [외판원 순회2](https://www.acmicpc.net/problem/10971) | ✅| ✅ | ❎ | |
 | 09.19 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) |✅ | | | |
-| 09.20 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | ✅ | ✅ | | |
+| 09.20 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | ✅ | ✅ | ✅  | |
 | 09.21 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | | ✅ | | |
 
 
