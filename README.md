@@ -11,11 +11,11 @@
 | 09.06 | [N-Queens](https://leetcode.com/problems/n-queens/) | ✅| ✅ | ❎ |❎ |
 | 09.07 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | ✅|  |  | ❎|
 | 09.08 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | ✅| ✅ | ❎ | ✅|
-| 09.09 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | ✅|  |  ❎  | |
+| 09.09 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | ✅| ❎ |  ❎  | |
 | 09.10 | [Target Sum](https://leetcode.com/problems/target-sum/) | ✅| ❎ | ❎  | |
 | 09.11 | [촌수 계산](https://www.acmicpc.net/problem/2644) | ✅| ✅ |  ❎   | |
 | 09.12 | [외판원 순회2](https://www.acmicpc.net/problem/10971) | ✅| ✅ | ❎ | |
-| 09.19 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) |✅ | | | |
+| 09.19 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) |✅ | ❎ | | |
 | 09.20 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | ✅ | ✅ | ✅  | |
 | 09.21 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | ✅| ✅ |✅  | |
 | 09.22 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | ✅| ❎ | | |
