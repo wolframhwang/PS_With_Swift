@@ -20,7 +20,7 @@
 | 09.21 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | ✅| ✅ |✅  | |
 | 09.22 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | ✅| ❎ | | |
 | 09.23 | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | ✅| ❎ | | |
-| 09.24 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | | | | |
+| 09.24 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | ✅ | | | |
 
 
 ## 8월
