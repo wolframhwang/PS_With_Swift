@@ -22,7 +22,7 @@
 | 09.23 | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | ✅| ❎ |❎  | |
 | 09.24 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | ✅ | | ❎  | |
 | 09.25 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ✅| ✅ | ✅ | |
-| 09.26 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | ✅| | | |
+| 09.26 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | ✅| ✅ | | |
 ## 8월
 
 | date       | problem set          | volga | summer | minii |
@@ -57,7 +57,7 @@
 | 08.28    | [종이의 개수](https://www.acmicpc.net/problem/1780) | ✅| ✅ | | 
 | 08.29    | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) | ✅ | ✅ | ✅ |
 | 08.30    | [색종이 만들기](https://www.acmicpc.net/problem/2630) | ✅| ✅ | ✅ |
-| 08.31    | [Decode String](https://leetcode.com/problems/decode-string/) | ✅| | |
+| 08.31    | [Decode String](https://leetcode.com/problems/decode-string/) | ✅|  | |
 
 
 <u></u>
