@@ -5,6 +5,7 @@
 | ---------- | -------------------- | ----  | ----  | ----  |
 | 10.01 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | | | |
 | 10.02 | [최단경로](https://www.acmicpc.net/problem/1753) | | | |
+| 10.03 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | | |
 | 10.03 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | | | |
 
 
