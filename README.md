@@ -1,5 +1,13 @@
 # PS_With_Swift
 
+## 10월
+| date       | problem set          | volga | summer | minii |
+| ---------- | -------------------- | ----  | ----  | ----  |
+| 10.01 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | | | |
+| 10.02 | [최단경로](https://www.acmicpc.net/problem/1753) | | | |
+| 10.03 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | | | |
+
+
 ## 9월 
 | date       | problem set          | volga | summer | minii | tottal-e |
 | ---------- | -------------------- | ----  | ----  | ----  | ---- |
@@ -25,6 +33,8 @@
 | 09.26 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | ✅| ✅ | ✅  | |
 | 09.27 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ✅ | ✅ | ❎ | |
 | 09.28 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ✅ | | ❎  | |
+| 09.29 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | | | | |
+| 09.30 | [최대 힙](https://www.acmicpc.net/problem/11279), [최소 힙](https://www.acmicpc.net/problem/1927) | | | | |
 
 ## 8월
 
