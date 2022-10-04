@@ -35,7 +35,7 @@
 | 09.26 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | ✅| ✅ | ✅  | |
 | 09.27 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ✅ | ✅ | ❎ | |
 | 09.28 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ✅ | | ❎  | |
-| 09.29 | [Pacific Altantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ✅| | | |
+| 09.29 | [Pacific Altantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ✅| | ❎   | |
 | 09.30 | [최대 힙](https://www.acmicpc.net/problem/11279), [최소 힙](https://www.acmicpc.net/problem/1927) |✅✅ | | | |
 
 ## 8월
