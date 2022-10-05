@@ -4,10 +4,14 @@
 | date       | problem set          | volga | summer | minii |
 | ---------- | -------------------- | ----  | ----  | ----  |
 | 10.01 | [가운데를 말해요 - 답 찾아서  됩니다](https://www.acmicpc.net/problem/1655) | ✅ | | ❎ |
-| 10.02 | [최단경로](https://www.acmicpc.net/problem/1753) | ✅| | |
-| 10.03 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ✅| | |
-| 10.04 | [나무 자르기](https://www.acmicpc.net/problem/2805) | ✅| | |
-| 10.05 | [중량 제한](https://www.acmicpc.net/problem/1939) | ✅| | |
+| 10.02 | -------------------- | ----  | ----  | ----  |
+| 10.03 | -------------------- | ----  | ----  | ----  |
+| 10.04 | -------------------- | ----  | ----  | ----  |
+| 10.05 | -------------------- | ----  | ----  | ----  |
+| 10.06 | [최단경로](https://www.acmicpc.net/problem/1753) | ----  | ----  | ----  |
+| 10.07 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ✅| | |
+| 10.08 | [나무 자르기](https://www.acmicpc.net/problem/2805) | ✅| | |
+| 10.09 | [중량 제한](https://www.acmicpc.net/problem/1939) | ✅| | |
 
 
 ## 9월 
