@@ -9,8 +9,8 @@
 | 10.04 | [나무 자르기](https://www.acmicpc.net/problem/2805) | ✅| ----  | ----  |
 | 10.05 | [중량 제한](https://www.acmicpc.net/problem/1939) | ✅| ----  | ----  |
 | 10.06 | [양](https://www.acmicpc.net/problem/3184) | ✅ | ✅ | ❎  |
-| 10.07 | [숨박꼭질 3](https://www.acmicpc.net/problem/13549) |✅ | | ✅ |
-| 10.08 | [영역 구하기](https://www.acmicpc.net/problem/2583) | ✅ | | |
+| 10.07 | [숨박꼭질 3](https://www.acmicpc.net/problem/13549) |✅ | ✅ | ✅ |
+| 10.08 | [영역 구하기](https://www.acmicpc.net/problem/2583) | ✅ | ✅ | |
 | 10.09 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | ✅| | |
 
 
