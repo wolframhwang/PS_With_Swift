@@ -12,7 +12,7 @@
 | 10.07 | [숨박꼭질 3](https://www.acmicpc.net/problem/13549) |✅ | ✅ | ✅ |
 | 10.08 | [영역 구하기](https://www.acmicpc.net/problem/2583) | ✅ | ✅ | ❎  |
 | 10.09 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | ✅| ✅ | |
-
+| 10.13 | [전쟁 - 전투](https://www.acmicpc.net/problem/1303) | | | |
 
 ## 9월 
 | date       | problem set          | volga | summer | minii | tottal-e |
