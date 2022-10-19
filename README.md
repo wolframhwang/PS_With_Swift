@@ -15,6 +15,7 @@
 | 10.13 | [전쟁 - 전투](https://www.acmicpc.net/problem/1303) | ✅| ✅ | |
 | 10.15 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | ✅| ❎ | |
 | 10.17 | [침투](https://www.acmicpc.net/problem/13565) | ✅| | |
+| 10.19 | [보물섬](https://www.acmicpc.net/problem/2589) | | | |
 
 ## 9월 
 | date       | problem set          | volga | summer | minii | tottal-e |
