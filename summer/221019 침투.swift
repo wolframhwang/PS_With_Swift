@@ -1,6 +1,3 @@
-// 어디가 틀렸는지 감도 안잡혀요(????)
-
-// n: 행, m: 열
 var n = 0, m = 0
 var map: [[Int]] = []
 var visited: [[Bool]] = []
@@ -37,15 +34,16 @@ func bfs(_ r: Int, _ c: Int) -> Bool {
 }
 
 func solve() {
-    var result: Bool = false
     for i in 0..<m {
         if visited[0][i] { continue }
         if map[0][i] == 1 { continue }
-        result = bfs(0, i)
+        if bfs(0, i) {
+            print("YES")
+            return
+        }
     }
-    
-    if result { print("YES") }
-    else { print("NO") }
+
+    print("NO")
 }
 
 func main() {
