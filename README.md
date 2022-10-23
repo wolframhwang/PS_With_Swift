@@ -16,7 +16,7 @@
 | 10.15 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | ✅| ❎ | ❎ |
 | 10.17 | [침투](https://www.acmicpc.net/problem/13565) | ✅ | ✅ | ❎  |
 | 10.19 | [보물섬](https://www.acmicpc.net/problem/2589) | ✅| ❎ | |
-| 10.21 | [연구소](https://www.acmicpc.net/problem/14502) | | ✅ | |
+| 10.21 | [연구소](https://www.acmicpc.net/problem/14502) | | ✅ | ❎  |
 | 10.23 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | |
 
 
