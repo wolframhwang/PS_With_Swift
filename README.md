@@ -18,6 +18,7 @@
 | 10.19 | [보물섬](https://www.acmicpc.net/problem/2589) | ✅| ❎ | |
 | 10.21 | [연구소](https://www.acmicpc.net/problem/14502) | | ✅ | ❎  |
 | 10.23 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | |
+| 10.25 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | | | |
 
 
 ## 9월 
