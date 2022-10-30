@@ -19,8 +19,8 @@
 | 10.21 | [연구소](https://www.acmicpc.net/problem/14502) | ✅| ✅ | ❎  |
 | 10.23 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅| ✅ |  ✅ |
 | 10.25 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | ✅| ✅ | ❎ |
-| 10.27 | [트럭](https://www.acmicpc.net/problem/13335) | | | |
-| 10.29 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | | | |
+| 10.27 | [트럭](https://www.acmicpc.net/problem/13335) | ✅| | |
+| 10.29 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | ✅| | |
 
 ## 9월 
 | date       | problem set          | volga | summer | minii | tottal-e |
