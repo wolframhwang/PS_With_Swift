@@ -20,7 +20,7 @@
 | 10.23 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅| ✅ |  ✅ |
 | 10.25 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | ✅| ✅ | ❎ |
 | 10.27 | [트럭](https://www.acmicpc.net/problem/13335) | ✅ | ✅ | ✅  |
-| 10.29 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | ✅| | |
+| 10.29 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | ✅| | ❎ |
 | 10.31 | [프린터 큐](https://www.acmicpc.net/problem/1966) | | | |
 
 ## 9월 
