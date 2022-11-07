@@ -4,7 +4,7 @@
 | date       | problem set          | volga | summer | minii |
 | ---------- | -------------------- | ----  | ----  | ----  |
 | 11.04 | [마인크래프트](https://www.acmicpc.net/problem/18111) | | | |
-| 11.06 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | | | |
+| 11.06 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | | | ✅  |
 ## 10월
 | date       | problem set          | volga | summer | minii |
 | ---------- | -------------------- | ----  | ----  | ----  |
