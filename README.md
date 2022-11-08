@@ -3,8 +3,8 @@
 ## 11월
 | date       | problem set          | volga | summer | minii |
 | ---------- | -------------------- | ----  | ----  | ----  |
-| 11.04 | [마인크래프트](https://www.acmicpc.net/problem/18111) | | | |
-| 11.06 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | | ❎ | ✅  |
+| 11.04 | [마인크래프트](https://www.acmicpc.net/problem/18111) | | ❎ | |
+| 11.06 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | | ✅ | ✅ |
 | 11.08 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | | | |
 
 
