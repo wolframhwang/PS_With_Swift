@@ -8,7 +8,7 @@
 | 11.08 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | ✅| ✅ |  ✅ |
 | 11.10 | [봄버맨](https://www.acmicpc.net/problem/16918) | | | ✅ |
 | 11.12 | [전광판의 숫자](https://www.acmicpc.net/problem/16159) | | |❎ |
-| 11.14 | [듣보잡](https://www.acmicpc.net/problem/1764) | | | ✅  |
+| 11.14 | [듣보잡](https://www.acmicpc.net/problem/1764) | ✅ | | ✅  |
 | 11.16 | [야간 전술보행](https://school.programmers.co.kr/learn/courses/30/lessons/133501) | | | |
 
 
