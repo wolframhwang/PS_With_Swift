@@ -10,7 +10,7 @@
 | 11.12 | [전광판의 숫자](https://www.acmicpc.net/problem/16159) | | |❎ |
 | 11.14 | [듣보잡](https://www.acmicpc.net/problem/1764) | ✅ | | ✅  |
 | 11.16 | [야간 전술보행](https://school.programmers.co.kr/learn/courses/30/lessons/133501) | | | |
-
+| 11.18 | [흙길 보수하기](https://www.acmicpc.net/problem/1911) | | | |
 
 ## 10월
 | date       | problem set          | volga | summer | minii |
