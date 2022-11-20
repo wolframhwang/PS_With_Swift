@@ -11,7 +11,7 @@
 | 11.14 | [듣보잡](https://www.acmicpc.net/problem/1764) | ✅ | | ✅  |
 | 11.16 | [야간 전술보행](https://school.programmers.co.kr/learn/courses/30/lessons/133501) | | | |
 | 11.18 | [흙길 보수하기](https://www.acmicpc.net/problem/1911) | | | |
-| 11.20 | [잃어버린 괄호](https://www.acmicpc.net/problem/status/1541/74/1) | | | |
+| 11.20 | [쿼드 트리](https://www.acmicpc.net/problem/1992) | | | |
 
 ## 10월
 | date       | problem set          | volga | summer | minii |
